@@ -1,6 +1,10 @@
-<<<<<<< HEAD
-Yuyu
+Yuyu Web Documentation
 =======
+
+## Web Access
+https://yuyu-billing.dev
+
+
 ## Installation
 
 ### 1. Install python-pip
@@ -38,4 +42,3 @@ cd yuyu-environment
 mkdocs build
 mkdocs serve
 ```
->>>>>>> 86554a2 (initial commit)
