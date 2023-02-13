@@ -39,6 +39,11 @@ Clone repository
 ```
 git clone https://go.btech.id/rsch/yuyu-environment.git
 cd yuyu-environment 
+```
+
+Build & Running Web
+
+```
 mkdocs build
 mkdocs serve
 ```
