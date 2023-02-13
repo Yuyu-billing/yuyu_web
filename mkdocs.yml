@@ -1,0 +1,96 @@
+site_name: Yuyu.io
+docs_dir: docs
+theme:
+  name: material
+  logo: assets/logo-long-ori.png
+  favicon: assets/images/favicon.png
+  #palette:
+  #  scheme: default
+  #  primary: white
+  #  accent: yellow
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/git-alt
+  custom_dir: material
+  
+  
+  ## Navigation
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+  
+  plugins:
+  - search
+
+  palette:
+    - #media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: orange
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: black)"
+      scheme: slate 
+      #primary: black
+      accent: orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+repo_url: https://github.com/btechpt/yuyu.git
+repo_name: btechpt/yuyu
+
+nav:
+  - Home: index.md
+  - Documentation:
+    - Introduction: introduction.md
+    - Architecture : architecture.md
+    - Features: features.md
+    - Deploy:
+      - Pre-Requisites: prerequisites.md
+      - Pre-Installation: pre-installation.md
+      - Installation: installation.md
+    - Usage:
+      - Pre-Usages: preusages.md
+      - How to:
+        - Create price : price.md
+        - Download invoice : invoice.md
+        - Billing overview : billing-overview.md
+        - Usages cost : cost.md
+        - Company Profile : billing-settings.md
+        - Notification center : notification.md
+        - Email configuration : email_configuration.md
+  - Repository: 'https://github.com/btechpt/yuyu'
+  - Contact: 'https://btech.id/contact/' 
+  - Demo: 'https://btech.id/surveys/request-demo-yuyu'
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://twitter.com/squidfunk
+  analytics:
+    provider: google
+    property: G-KE6QVLXCJP
+
+copyright: Copyright &copy; 2022 - Btech Team
+
+
+## Google Analytics
+#extra:
+#  analytics:
+#    provider: google
+#    property: G-KE6QVLXCJP
+
