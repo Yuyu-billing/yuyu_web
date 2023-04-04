@@ -42,8 +42,8 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
-repo_url: https://github.com/btechpt/yuyu.git
-repo_name: btechpt/yuyu
+repo_url: https://github.com/Yuyu-billing
+repo_name: github.com/yuyu-billing
 
 nav:
   - Home: index.md
