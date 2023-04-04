@@ -65,9 +65,9 @@ nav:
         - Company Profile : billing-settings.md
         - Notification center : notification.md
         - Email configuration : email_configuration.md
-  - Repository: 'https://github.com/btechpt/yuyu'
-  - Contact: 'https://btech.id/contact/' 
-  - Demo: 'https://btech.id/surveys/request-demo-yuyu'
+  - Repository: 'https://github.com/Yuyu-billing'
+  - Contact: contact.md
+  - Demo: 'demo.md'
 
 extra_css:
   - stylesheets/extra.css
