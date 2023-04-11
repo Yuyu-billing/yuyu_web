@@ -79,8 +79,12 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/yuyubilling
     - icon: fontawesome/brands/github 
-      link: https://twitter.com/squidfunk
+      link: https://github.com/Yuyu-billing
+    - icon: fontawesome/brands/linkedin 
+      link: https://id.linkedin.com/in/yuyu-billing-068374264
   analytics:
     provider: google
     property: G-KE6QVLXCJP
