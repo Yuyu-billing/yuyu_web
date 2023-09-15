@@ -28,4 +28,4 @@ Currently we have **tested** several openstack version to support yuyu :
 
 For openstack you can follow our documentation, deploy openstack using koll-ansible bellow :
 
-[Openstack Install Guide](https://github.com/btechpt/yuyu_documentation/tree/main/Install%20openstack)
+[Openstack Install Guide](https://github.com/Yuyu-billing/yuyu_documentation/tree/main/Install%20openstack)

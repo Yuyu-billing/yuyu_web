@@ -7,7 +7,7 @@
   
 ```
 cd /var
-git clone https://github.com/btechpt/yuyu.git
+git clone https://github.com/Yuyu-billing/yuyu.git
 cd yuyu
 ```
 2.  Create virtualenv (**Need activated**)
@@ -84,7 +84,7 @@ deactivate
 
 ```
 cd /var
-git clone https://github.com/btechpt/yuyu_dashboard.git
+git clone https://github.com/Yuyu-billing/yuyu_dashboard.git
 cd yuyu_dashboard
 ```
 2. Setup Yuyu dashboard 
