@@ -7,10 +7,10 @@ Our resources is **free**, you can use for see how it work **Yuyu Billing** on *
 ### **Demo access**
 
 
-- [https://demo.yuyu-billing.dev](https://demo.yuyu-billing.dev)
+- [https://demo.yuyu-billing.dev/horizon/](https://demo.yuyu-billing.dev/horizon/)
 
 ### **Lab Credentials**
 ```
 username : demo
-password : nm*iW0vY505#
+password : bMpZEwXbIFP0r1w
 ```
